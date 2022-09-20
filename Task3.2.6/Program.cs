@@ -1,6 +1,4 @@
-﻿using System.Xml.Linq;
-
-namespace Task3_2_6
+﻿namespace Task3_2_6
 {
     internal class Program
     {
