@@ -1,12 +1,13 @@
-﻿namespace Module3
+﻿namespace Task3_2_3
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             string MyName;
-            MyName = "Jane";
+            MyName = "Андрей";
             Console.WriteLine(MyName);
+            Console.ReadLine();
         }
     }
 }
